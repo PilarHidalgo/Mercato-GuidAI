@@ -116,6 +116,8 @@ if 'form_submitted' not in st.session_state:
     st.session_state.form_submitted = False
 if 'show_chat' not in st.session_state:
     st.session_state.show_chat = False
+if 'embeddings' not in st.session_state:
+    st.session_state.embeddings = None
 
 # Sidebar for navigation
 st.sidebar.image("Logo-Mercato-Guidai-letras.png", width=170)  # Display logo in sidebar
@@ -130,7 +132,7 @@ if page == "Embeddings":
     token = st.text_input("Authorization Token", "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", type="password")
     
     # List of document files
-    document_files = ["documento1.txt", "documento2.txt"]
+    document_files = ["Doing Export Report 2024_SACE.txt", "Rapporto-Obiettivo-sparkling.txt"]
     
     # Read the content of the document files
     documents = []
@@ -165,7 +167,7 @@ elif page == "Mercato GuidAI":
                 st.session_state.messages.append({"role": "user", "content": initial_message})
                 
                 # Get AI response immediately after form submission
-                with st.spinner('AI is analyzing your information...'):
+                with st.spinner("L'IA sta analizzando le tue informazioni..."):
                     ai_response = get_ai_response("https://api.regolo.ai/v1/chat/completions", 
                                                   "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", 
                                                   st.session_state.messages)
@@ -184,21 +186,21 @@ elif page == "Mercato GuidAI":
 
         if len(st.session_state.messages) % 2 == 1:  # If the last message is from the user
             with st.chat_message("assistant"):
-                with st.spinner('AI is analyzing your information...'):
+                with st.spinner("L'IA sta analizzando le tue informazioni..."):
                     ai_response = get_ai_response("https://api.regolo.ai/v1/chat/completions", 
                                                   "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", 
                                                   st.session_state.messages)
                 st.markdown(ai_response)
             st.session_state.messages.append({"role": "assistant", "content": ai_response})
 
-        if prompt := st.chat_input("Ask a follow-up question"):
+        if prompt := st.chat_input("Fai una domanda di follow-up"):
             st.session_state.messages.append({"role": "user", "content": prompt})
             with st.chat_message("user"):
                 st.markdown(prompt)
 
             with st.chat_message("assistant"):
                 message_placeholder = st.empty()
-                with st.spinner('AI is thinking...'):
+                with st.spinner("L'IA sta pensando..."):
                     full_response = get_ai_response("https://api.regolo.ai/v1/chat/completions", 
                                                     "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", 
                                                     st.session_state.messages)
@@ -207,10 +209,15 @@ elif page == "Mercato GuidAI":
             st.session_state.messages.append({"role": "assistant", "content": full_response})
         st.markdown("</div>", unsafe_allow_html=True)
 
-        if st.button("Start New Consultation"):
+        if st.button("Inizia nuova consulenza"):
             # Read content from a .txt file
-            with open("path/to/your/file.txt", "r") as file:
+            with open("prompt_mercatoai.txt", "r", encoding="utf-8") as file:
                 file_content = file.read()
+            
+            # Add embeddings context to the system message
+            if st.session_state.embeddings:
+                file_content += "\n\nEmbeddings Context:\n"
+                file_content += json.dumps(st.session_state.embeddings, indent=2)
             
             st.session_state.messages = [
                 {"role": "system", "content": file_content}
@@ -218,3 +225,5 @@ elif page == "Mercato GuidAI":
             st.session_state.form_submitted = False
             st.session_state.show_chat = False
             st.rerun()
+
+
