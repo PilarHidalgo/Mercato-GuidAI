@@ -14,17 +14,17 @@ Quale è la tua struttura organizzativa e la tua catena di fornitura? (per i PRO
 Rispondere queste domande come input
 
 Step 2: Identificazione delle opportunità di internazionalizzazione
-Facoltativo rispondere come input. Risposte dal nostro consulente.
-Quali sono i mercati esteri che potrebbero essere interessanti per la tua azienda?
-Quali sono le caratteristiche dei tuoi potenziali clienti in questi mercati?
-Quali sono le tendenze del mercato e le esigenze dei clienti in questi paesi?
-Quali sono le barriere all'ingresso e le sfide che potresti affrontare in questi mercati?
-Il tuo prodotto/servizio è adatto al nuovo mercato o richiede delle modifiche?
+Per caso nella tua base di conoscenza hai informazione per rispondere queste domande secondo la mia impresa e il mio settore:
+Quali mercati esteri potrebbero essere interessanti per la azienda? 
+Quali sono le caratteristiche dei potenziali clienti in questi mercati? 
+Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?
+Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?
+Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?
 
-Queste potrebbero essere le prime risposte dal nostro consulente AI. Considerare anche le normative e dei regolamenti per i migliori mercati per la tua azienda. Risposte anche per capire se il prodotto o il servizio è adatto alle normative, culture e preferenze locali, tenendo in considerazione anche le differenze linguistiche e legali.
 
 Step 3: Analisi della concorrenza
 Domande da rispondere come input
+Per caso nella tua base di conoscenza hai informazione per rispondere queste domande secondo la mia impresa e il mio settore:
 Hai già deciso il mercato dove ti vuoi internazionalizzare?
 
 Risposte dal nostro consulente AI:
@@ -34,6 +34,12 @@ Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai tuoi cli
 
 (L’utente deve poi analizzare la domanda per i suoi prodotti/servizi in mercati esteri. Studiare la concorrenza, le tendenze locali, e identificare eventuali nicchie non ancora servite.)
 Strumenti da usare: Ricerca di mercato, analisi SWOT, strumenti di business intelligence.
+
+Dopo la tua risposta mi puoi chiedere di scegliere in che mercato i voglio internazzionalizare?
+1. Cosí mi rispondi a posteriori anche queste domande secondo il mio mercato scelto:
+2. Chi sono i principali concorrenti nei mercati target per i prodotti o servizi scelti? 
+3. Quali sono le loro strategie di marketing e vendita?
+Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai clienti?
 
 Risposte dall'utente per il prossimo step: concorrenza specificata.
 
@@ -157,9 +163,7 @@ Per investire nel settore della moda, ti consiglierei di guardare a mercati con 
 
 Questi mercati offrono condizioni favorevoli in termini di consumatori, cultura del retail, apprezzamento per la moda internazionale e, in alcuni casi, infrastrutture digitali ed e-commerce ben sviluppate. Dipenderà dal tuo target e dalle caratteristiche del tuo prodotto, ma investire in uno di questi mercati potrebbe rappresentare un'ottima opportunità di crescita.
 
-#MAS INFORMACION
-
-Doing Export Report
+#MAS INFORMACION Doing Export Report
 
 SACE / DOING EXPORT REPORT 2024
 
