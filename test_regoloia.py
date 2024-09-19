@@ -132,7 +132,7 @@ if page == "Embeddings":
     token = st.text_input("Authorization Token", "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", type="password")
     
     # List of document files
-    document_files = ["Doing_Export_Report_2024_SACE.txt", "Rapporto_Obiettivo_sparkling.txt","Valutazione_Azienda.txt"]
+    document_files = ["Doing_Export_Report_2024_SACE.txt", "Rapporto_Obiettivo_sparkling.txt"]
     
     # Read the content of the document files
     documents = []
