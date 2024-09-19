@@ -3,7 +3,7 @@ import requests
 import json
 
 # Page configuration
-st.set_page_config(page_title="Consult REGOLOAI Documents", page_icon=":robot_face:", layout="wide")
+st.set_page_config(page_title="Mercato-GuidAI", page_icon=":robot_face:", layout="wide")
 
 # Custom CSS with updated colors
 st.markdown("""
@@ -100,17 +100,17 @@ def get_ai_response(url, token, messages):
 
 # Function to process form data and create a structured message
 def create_initial_message(form_data):
-    message = "I need advice on internationalization strategy based on the following information:\n\n"
+    message = "Ho bisogno di consigli sulla strategia di internazionalizzazione basata sulle seguenti informazioni:\n\n"
     for key, value in form_data.items():
         if value:  # Only include non-empty fields
             message += f"- {key.capitalize()}: {value}\n"
-    message += "\nPlease provide an initial analysis and recommendations for internationalization based on this information."
+    message += "\nPer favore, fornisci un'analisi iniziale e raccomandazioni per l'internazionalizzazione basate su queste informazioni."
     return message
 
 # Initialize session state
 if 'messages' not in st.session_state:
     st.session_state.messages = [
-        {"role": "system", "content": "You are an AI assistant specialized in internationalization strategies. Provide advice based on the given context."}
+        {"role": "system", "content": "Sei un assistente AI specializzato in strategie di internazionalizzazione. Fornisci consigli in base al contesto fornito."}
     ]
 if 'form_submitted' not in st.session_state:
     st.session_state.form_submitted = False
@@ -126,7 +126,7 @@ page = st.sidebar.radio("Go to", ["Mercato GuidAI", "Embeddings"])
 
 # Embeddings page
 if page == "Embeddings":
-    st.title("REGOLOAI Embeddings Interface")
+    st.title("Mercato-GuidAI Embeddings")
     
     url = st.text_input("Endpoint", "https://api.regolo.ai/v1/embeddings")
     token = st.text_input("Authorization Token", "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", type="password")
@@ -225,5 +225,6 @@ elif page == "Mercato GuidAI":
             st.session_state.form_submitted = False
             st.session_state.show_chat = False
             st.rerun()
+
 
 
