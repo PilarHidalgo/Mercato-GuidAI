@@ -132,12 +132,12 @@ if page == "Embeddings":
     token = st.text_input("Authorization Token", "rai_eecheeShuH5aiZuiphaiy7eLee5As0ai", type="password")
     
     # List of document files
-    document_files = ["Doing Export Report 2024_SACE.txt", "Rapporto-Obiettivo-sparkling.txt"]
+    document_files = ["Doing Export Report 2024_SACE.txt", "Rapporto-Obiettivo-sparkling.txt","Valutazione Azienda.txt"]
     
     # Read the content of the document files
     documents = []
     for file in document_files:
-        with open(file, "r") as f:
+        with open(file, "r", encoding="utf-8") as f:
             documents.append(f.read())
     
     if st.button("Get Embeddings"):
