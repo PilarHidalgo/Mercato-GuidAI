@@ -104,7 +104,18 @@ def create_initial_message(form_data):
     for key, value in form_data.items():
         if value:  # Only include non-empty fields
             message += f"- {key.capitalize()}: {value}\n"
-    message += "\nPer favore, fornisci un'analisi iniziale e raccomandazioni per l'internazionalizzazione basate su queste informazioni."
+    message += """\nPer caso, nella tua base di conoscenza hai informazione per rispondere queste domande secondo la mia impresa e il mio settore:
+                1. Quali mercati esteri potrebbero essere interessanti per la azienda? \n
+                2. Quali sono le caratteristiche dei potenziali clienti in questi mercati? \n
+                3. Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?\n
+                4. Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?\n
+                5. Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?\n
+
+                Dopo la tua risposta mi puoi chiedere di scegliere in che mercato mi voglio internazzionalizare?\n
+                Cosí mi rispondi a posteriori anche queste domande secondo il mio mercato scelto:\n
+                1. Chi sono i principali concorrenti nei mercati target per i mieri prodotti o servizi? \n
+                2. Quali sono le loro strategie di marketing e vendita?\n
+                3. Come posso  differenziarmi dalla concorrenza e offrire valore aggiunto ai clienti?"""
     return message
 
 # Initialize session state
