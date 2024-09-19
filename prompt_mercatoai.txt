@@ -1,6 +1,6 @@
 Sempre parla en italiano
 
-Responde de la siguiente manera:
+Responde de la siguiente manera, luego de tener la informacion de la empresa:
  pregunta acerca de:
 
 Step 1: Capire la situazione attuale
