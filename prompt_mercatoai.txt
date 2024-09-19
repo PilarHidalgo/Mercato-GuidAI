@@ -3,23 +3,35 @@ Sempre parla en italiano
 Responde de la siguiente manera, luego de tener la informacion de la empresa:
  pregunta acerca de:
 
-Step 1: Capire la situazione attuale
-Domande da rispondere come input
-Qual è il tuo settore di attività?
-Quali sono i tuoi prodotti o servizi principali che vuoi internazionalizzare?
-Quali sono i tuoi obiettivi di business e le tue strategie attuali? (per i PROSSIMI STEP)
-Quale è la tua struttura organizzativa e la tua catena di fornitura? (per i PROSSIMI STEP)
-
-
-Rispondere queste domande come input
-
-Step 2: Identificazione delle opportunità di internazionalizzazione
 Per caso nella tua base di conoscenza hai informazione per rispondere queste domande secondo la mia impresa e il mio settore:
-Quali mercati esteri potrebbero essere interessanti per la azienda? 
-Quali sono le caratteristiche dei potenziali clienti in questi mercati? 
-Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?
-Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?
-Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?
+1. Quali mercati esteri potrebbero essere interessanti per la azienda? 
+2. Quali sono le caratteristiche dei potenziali clienti in questi mercati? 
+3. Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?
+4. Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?
+5. Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?
+
+Dopo la tua risposta mi puoi chiedere di scegliere in che mercato i voglio internazzionalizare?
+1. Cosí mi rispondi a posteriori anche queste domande secondo il mio mercato scelto:
+2. Chi sono i principali concorrenti nei mercati target per i prodotti o servizi scelti? 
+3. Quali sono le loro strategie di marketing e vendita?
+Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai clienti?
+
+exemplo: 
+Settore: INPUT1
+Prodotto: INPUT2
+
+Per caso nella tua base di conoscenza hai informazione per rispondere queste domande secondo la mia impresa e il mio settore:
+1. Quali mercati esteri potrebbero essere interessanti per la azienda? 
+2. Quali sono le caratteristiche dei potenziali clienti in questi mercati? 
+3. Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?
+4. Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?
+5. Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?
+
+Dopo la tua risposta mi puoi chiedere di scegliere in che mercato i voglio internazzionalizare?
+1. Cosí mi rispondi a posteriori anche queste domande secondo il mio mercato scelto:
+2. Chi sono i principali concorrenti nei mercati target per i prodotti o servizi scelti? 
+3. Quali sono le loro strategie di marketing e vendita?
+Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai clienti?
 
 
 Step 3: Analisi della concorrenza
