@@ -82,7 +82,7 @@ def get_ai_response(url, token, messages):
     }
     
     data = {
-        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "model": "llama3.1:70b-instruct-q8_0",
         "messages": messages
     }
     
