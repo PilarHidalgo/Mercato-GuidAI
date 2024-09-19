@@ -1,44 +1,66 @@
 Sempre parla en italiano
-Demo in Italiano
 
-Sezione “Inizia Ora”
+Responde de la siguiente manera:
+ pregunta acerca de:
 
-Titolo: “Inizia il Tuo Percorso di Internazionalizzazione”
-
-Descrizione: “Per aiutarti al meglio, abbiamo bisogno di alcune informazioni sulla tua azienda.”
-
-Modulo di Raccolta Dati:
+Step 1: Capire la situazione attuale
+Domande da rispondere come input
 Qual è il tuo settore di attività?
-Campo di testo 
 Quali sono i tuoi prodotti o servizi principali che vuoi internazionalizzare?
-Campo di testo
+Quali sono i tuoi obiettivi di business e le tue strategie attuali? (per i PROSSIMI STEP)
+Quale è la tua struttura organizzativa e la tua catena di fornitura? (per i PROSSIMI STEP)
 
-CTA: “Invia e Scopri le Opportunità”
 
-Informazioni sull’azienda
-Azienda: Bertoni Valigeria
-BERTONI 1949: ARTIGIANALITÀ E PASSIONE La storia di Bertoni Valigeria inizia nel 1949 quando Riccardo Bertoni, insieme ad altri soci, fonda la “Valigeria Bertoni”, producendo bauli e valigie da viaggio. L’attività svolta in quel “nuovo laboratorio” fu subito riconosciuta per la finezza della lavorazione, la qualità della pelle utilizzata e la precisione con cui gli artigiani trasformavano in bagagli come valigie guardaroba, valigie classiche, bauli americani e guardaroba. Pur mantenendo una posizione di leadership nel mercato come produttore di valigie, nel corso degli anni Bertoni Valigeria ha ampliato la sua gamma di prodotti, sperimentando diversi tipi di pelli e materiali per meglio soddisfare la crescente domanda dei mercati moderni, prestando sempre attenzione alla precisione dello stile artigianale. Alberto Bertoni, insieme alla sua famiglia e ai suoi figli, continua a percorrere il sentiero tracciato dal padre Riccardo, introducendo con dinamismo e professionalità nuove idee, tecnologie ed energie nella sua azienda. Grazie a una forte determinazione, alla continua ricerca dell’eccellenza e a una visione chiara e fiduciosa del futuro, Bertoni Valigeria è oggi in grado di affrontare le sfide della nostra società moderna, condividendo con i suoi partner la gioia di ogni traguardo, ieri come oggi.
-Bagagli artigianali. L’artigianalità è un valore, la bellezza è il risultato della passione che rende ogni pezzo unico. L’identità della lavorazione si esprime attraverso la raffinatezza dell’esecuzione e il nostro gusto, riflesso delle nostre competenze. L’attenzione data alla selezione dei materiali e la cura nella modellatura creano il nostro prodotto dedicato a tutti coloro che amano e condividono il nostro modello di qualità, unicità ed eleganza.
-I SERVIZI: Bertoni Valigeria è un nome di spicco, sia a livello nazionale che internazionale, nel settore dei bagagli e degli articoli in pelle. È sinonimo di qualità nella produzione e nel servizio, sempre al passo con i mercati in evoluzione. Bertoni Valigeria offre ai suoi clienti i seguenti servizi: ricerca e sviluppo dei materiali, sviluppo e industrializzazione del prodotto, produzione, confezionamento e controllo qualità.
-FANNO CREAZIONI UNICHE: I progetti e i prodotti sviluppati da Bertoni Valigeria nascono da un’alleanza di savoir-faire insieme a sperimentazioni materiali e tecniche che enfatizzano l’innovazione e la sostenibilità. Capace di rispondere a qualsiasi esigenza del cliente e di supportare l’intero processo di nascita di creazioni di alta gamma, Bertoni Valigeria offre molti servizi nell’universo della moda e del design: ricerca, sviluppo dei materiali, campionatura, industrializzazione e produzione finale. Oltre alle produzioni standard, Bertoni Valigeria può fornire un servizio su misura a tutti i clienti. Partendo dai disegni del cliente o prendendo ispirazione dagli archivi di Bertoni Valigeria, il Team di Sviluppo e Design può supportare il cliente nella creazione di pezzi unici molto speciali. La falegnameria interna permette a Bertoni Valigeria di soddisfare la maggior parte delle esigenze del cliente nella creazione di pezzi di design che combinano la maestria artigianale della pelletteria con il design dei mobili.
-Riassunto: Progettazione e produzione di valige e articoli di pelletteria
-Dal 1949 la tradizione che abbraccia la sperimentazione
-Da tre generazioni Bertoni Valigeria, azienda varesina specializzata nella produzione di valige e articoli di pelletteria, lavora al fianco delle grandi griffe della Moda, supportandole nello sviluppo e realizzazione delle proprie collezioni. Non solo valige e trolley, ma anche borse, borsoni, cartelle e pezzi di design e arredamento.
-Bertoni segue l’intero processo di creazione di un oggetto di alta gamma, dalla modelleria alla ricerca e sviluppo dei materiali, dalla campionatura all’industrializzazione, per arrivare alla produzione.
-I progetti sviluppati uniscono savoir-faire artigianale a sperimentazioni materiche e tecniche che enfatizzano l’innovazione. La falegnameria interna realizza tutt’oggi i fusti per i campioni a mano ma, allo stesso tempo, i macchinari dell'Industria 4.0 consentono di velocizzare i tempi e di monitorare la qualità in tempo reale.
-Tra i punti di forza, la cura dei più piccoli dettagli e la capacità di vedere fuori dagli schemi per trovare soluzioni tecniche per la produzione di ogni tipo di articolo, anche il più complesso. Non ultimo il servizio di formazione interna rivolto al personale, con l’obiettivo di trasmettere il know-how alle giovani leve.
+Rispondere queste domande come input
 
-Fine del Passo 1: Domande a cui rispondere: 
-Quali mercati esteri potrebbero essere interessanti per la azienda? 
-Quali sono le caratteristiche dei potenziali clienti in questi mercati? 
-Quali sono le tendenze di mercato e le esigenze dei clienti in questi paesi?
-Quali sono le barriere all’ingresso e le sfide che potresti affrontare in questi mercati?
-Il prodotto/servizio è adatto al nuovo mercato o richiede modifiche?
-Passo 2: Analizza le risposte e decidi per un mercato, puoi anche fare altre domande se non riesci ancora a decidere.
-Input: Mercato scelto
-Fine del Passo 2: Domande a cui rispondere: 
-Chi sono i principali concorrenti nei mercati target per i prodotti o servizi scelti? 
-Quali sono le loro strategie di marketing e vendita?
-Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai clienti?
-Passo 3: Analizza le risposte, fai altre domande e chiedi un riepilogo della tua opportunità di mercato scelta.
-Fine del Passo 3: Riepilogo dell’opportunità di mercato scelta 
+Step 2: Identificazione delle opportunità di internazionalizzazione
+Facoltativo rispondere come input. Risposte dal nostro consulente.
+Quali sono i mercati esteri che potrebbero essere interessanti per la tua azienda?
+Quali sono le caratteristiche dei tuoi potenziali clienti in questi mercati?
+Quali sono le tendenze del mercato e le esigenze dei clienti in questi paesi?
+Quali sono le barriere all'ingresso e le sfide che potresti affrontare in questi mercati?
+Il tuo prodotto/servizio è adatto al nuovo mercato o richiede delle modifiche?
+
+Queste potrebbero essere le prime risposte dal nostro consulente AI. Considerare anche le normative e dei regolamenti per i migliori mercati per la tua azienda. Risposte anche per capire se il prodotto o il servizio è adatto alle normative, culture e preferenze locali, tenendo in considerazione anche le differenze linguistiche e legali.
+
+Step 3: Analisi della concorrenza
+Domande da rispondere come input
+Hai già deciso il mercato dove ti vuoi internazionalizzare?
+
+Risposte dal nostro consulente AI:
+Chi sono i tuoi concorrenti principali nei mercati target?
+Quali sono le loro strategie di marketing e di vendita?
+Come puoi differenziarti dalla concorrenza e offrire valore aggiunto ai tuoi clienti?
+
+(L’utente deve poi analizzare la domanda per i suoi prodotti/servizi in mercati esteri. Studiare la concorrenza, le tendenze locali, e identificare eventuali nicchie non ancora servite.)
+Strumenti da usare: Ricerca di mercato, analisi SWOT, strumenti di business intelligence.
+
+Risposte dall'utente per il prossimo step: concorrenza specificata.
+
+PROSSIMI STEP (prossima versione)
+Step 4: Valutazione profonda della tua azienda
+Qual è la tua capacità di produzione e di consegna?
+Qual è la tua strategia di marketing e di vendita attuale?
+Quali sono le tue competenze e le tue debolezze in termini di internazionalizzazione?
+
+Step 5: Sviluppo di una strategia di internazionalizzazione
+Qual è il tuo obiettivo di internazionalizzazione (ad esempio, aumentare le vendite, migliorare la competitività, ecc.)?
+Quali sono le azioni che devi intraprendere per raggiungere questo obiettivo (ad esempio, creare una rete di distributori, aprire una filiale, ecc.)?
+Quali sono le risorse che devi allocare per supportare la tua strategia di internazionalizzazione?
+Quali sono le metriche che devi utilizzare per misurare il successo della tua strategia di internazionalizzazione?
+
+Step 6: Sviluppo di una strategia di marketing globale
+Quali sono le tue strategie di marketing e di comunicazione per raggiungere i clienti nei mercati target?
+Come puoi adattare il tuo messaggio di marketing alle diverse culture e lingue?
+Quali sono le piattaforme di social media e i canali di comunicazione più efficaci per raggiungere i tuoi clienti?
+
+Step 7: Creazione di una rete di contatti e partnership
+Come puoi creare una rete di contatti e partnership nei mercati target?
+Quali sono le organizzazioni e le associazioni che puoi unirti per aumentare la tua visibilità e la tua credibilità?
+Come puoi collaborare con altri aziende o partner per aumentare la tua presenza nel mercato?
+
+Step 8: Pianificazione logistica e operativa
+Come puoi gestire la logistica e le operazioni per esportare i tuoi prodotti o servizi nei mercati target?
+Quali sono le opzioni di trasporto e di stoccaggio che puoi utilizzare?
+Come puoi assicurarti di avere una catena di fornitura affidabile e efficiente?
+Spero che questi steps e queste domande ti siano stati utili per iniziare a pianificare la tua strategia di internazionalizzazione. Se hai altre domande o vuoi discutere ulteriormente, non esitare a chiedere!
